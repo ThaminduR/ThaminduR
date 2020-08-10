@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThaminduR/ThaminduR/master/img/intro.gif" width=100>
+  <br><br>
+  <samp>
+    I'm Thamindu, a Third Year Computer Science and Engineering undergraduate at University of Moratuwa and passionate, hardworking, detail oriented software developer:computer:. 
+    I like learning and experimenting with different technologies. :bulb:
+  </samp>
+</p>
