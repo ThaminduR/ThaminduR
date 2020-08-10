@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <br><br>
   <samp>
     I'm Thamindu, a Third Year Computer Science and Engineering undergraduate at University of Moratuwa and passionate, hardworking, detail oriented software developer:computer:. 
-    I like learning and experimenting with different technologies. :bulb:
+    I like learning and experimenting with different technologies:bulb:.
   </samp>
 </p>
