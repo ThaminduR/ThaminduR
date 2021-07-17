@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThaminduR/ThaminduR/master/img/intro.gif" width=200>
+  <img src="https://user-images.githubusercontent.com/45028707/126036199-23455e5e-879b-40f4-8de6-10db1ff2fa83.gif" width=200>
   <br><br>
   <samp>
-    A Third Year Computer Science and Engineering undergraduate at University of Moratuwa and a passionate, hardworking, detail oriented software developer:computer:. 
-    I like learning and experimenting with different technologies:bulb:.
+    A Final Year Computer Science and Engineering undergraduate at University of Moratuwa and a passionate, hardworking, detail oriented software developer:computer:. 
+    Currently working on a research in NLP.
   </samp>
 </p>
