@@ -1,4 +1,4 @@
-### Hello There, I'm Thamindu 👋
+### I'm Thamindu
 
 <!--
 **ThaminduR/ThaminduR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
