@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <br><br>
   <samp>
     A Final Year Computer Science and Engineering undergraduate at University of Moratuwa :computer:.
-    Currently working on a research in NLP and some data science projects.
+    Currently working on a research in NLP.
   </samp>
 </p>
