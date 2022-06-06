@@ -7,4 +7,4 @@
 - Final Year Computer Science and Engineering undergraduate at University of Moratuwa 🎓.
 
 
-<div align="center"><a href="#"><img width="40%" height="auto" src="https://c.tenor.com/8Afa3Axvr90AAAAC/surf-laptop.gif" height="175px"/></a></div>
+<!-- <div align="center"><a href="#"><img width="40%" height="auto" src="https://c.tenor.com/8Afa3Axvr90AAAAC/surf-laptop.gif" height="175px"/></a></div> -->
