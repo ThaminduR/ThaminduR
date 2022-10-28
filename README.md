@@ -3,8 +3,7 @@
 <!-- <img src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-3.gif" width="80px"> -->
 
 - Software Engineer at WSO2.
-- Former Software Engineer Intern at WSO2.
-- Final Year Computer Science and Engineering undergraduate at University of Moratuwa 🎓.
+- Computer Science and Engineering graduate at University of Moratuwa.
 
 
 <!-- <div align="center"><a href="#"><img width="40%" height="auto" src="https://c.tenor.com/8Afa3Axvr90AAAAC/surf-laptop.gif" height="175px"/></a></div> -->
