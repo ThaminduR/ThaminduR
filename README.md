@@ -7,3 +7,6 @@
 
 
 <!-- <div align="center"><a href="#"><img width="40%" height="auto" src="https://c.tenor.com/8Afa3Axvr90AAAAC/surf-laptop.gif" height="175px"/></a></div> -->
+
+
+[![An image of @thamindur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thamindur)](https://holopin.io/@thamindur)
