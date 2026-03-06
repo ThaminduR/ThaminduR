@@ -2,8 +2,7 @@
 <h1 align="center">I'm Thamindu</h1>
 <!-- <img src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-3.gif" width="80px"> -->
 
-- Associate Technical Lead at WSO2.
-- Computer Science and Engineering graduate from University of Moratuwa.
+Focused on identity, security, and enterprise identity systems. Builds and guides the development of identity platform components that power authentication, authorization, and identity lifecycle management. Interested in the intersection of IAM, distributed systems, and AI driven developer experiences.
 
 
 <!-- <div align="center"><a href="#"><img width="40%" height="auto" src="https://c.tenor.com/8Afa3Axvr90AAAAC/surf-laptop.gif" height="175px"/></a></div> -->
