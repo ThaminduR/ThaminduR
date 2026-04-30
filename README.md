@@ -6,6 +6,7 @@ Focused on enterprise security and identity systems.
 Builds and directs the development of platform components that power authentication, authorization, and identity lifecycle management. 
 Operating at the intersection of IAM, distributed systems, and AI-driven developer experiences
 
+<p align="center">🛠 <a href="https://tinkerworks.dev"><b>tinkerworks.dev</b></a> — a workbench for half-built software & weekend experiments</p>
 
 <!-- <div align="center"><a href="#"><img width="40%" height="auto" src="https://c.tenor.com/8Afa3Axvr90AAAAC/surf-laptop.gif" height="175px"/></a></div> -->
 
